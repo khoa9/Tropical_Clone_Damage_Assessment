@@ -14,7 +14,7 @@ This project utilizes YOLOv8 for object detection.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="runs/detect/predict/Validation_Post_Event_009" alt="Logo" width="500" height="500">
+    <img src="runs/detect/predict/Validation_Post_Event_009.jpg" alt="Logo" width="500" height="500">
 
 
   <p align="center">
